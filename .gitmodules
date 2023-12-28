@@ -1,0 +1,3 @@
+[submodule "trading-card-game-baseggio"]
+	path = trading-card-game-baseggio
+	url = https://github.com/oo-design-2022/trading-card-game-baseggio.git
